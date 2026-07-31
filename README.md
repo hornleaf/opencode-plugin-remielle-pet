@@ -5,6 +5,8 @@
 基于 [oc-claw](https://github.com/rainnoon/oc-claw) 的状态监控思路，为 [opencode](https://opencode.ai) CLI / Desktop 制作的桌宠。
 素材取自绝区零官方的蕾米埃尔·丹（Remielle Dan）表情包，根据 opencode 实时状态切换动图。
 
+![](Screenshot.png)
+
 ## 工作原理
 
 ```
