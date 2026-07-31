@@ -1,0 +1,10 @@
+{
+  "port": 28888,
+  "scale": 0.8,
+  "always_on_top": true,
+  "x": 820,
+  "y": 418,
+  "thinking_sec": 2.0,
+  "reasoning_switch_sec": 5.0,
+  "done_hold_sec": 5.0
+}

@@ -119,7 +119,7 @@ def verify():
 def print_summary():
     print()
     print("=" * 50)
-    print("Remielle_OpenPet 安装完成!")
+    print("Remielle OpenPet 安装完成!")
     print("=" * 50)
     print(f"  桌宠程序: {PET_DIR}")
     print(f"  插件:     {PLUGIN_DST}")

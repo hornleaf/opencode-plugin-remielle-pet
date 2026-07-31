@@ -1,4 +1,4 @@
-# Remielle_OpenPet — opencode 状态桌宠
+# Remielle OpenPet — opencode 状态桌宠
 
 > 本项目由深度求索官方接口 DeepSeek-V4-Flash-0731 / DeepSeek-V4-Pro 在 OpenCode 制作
 
@@ -10,7 +10,7 @@
 ## 工作原理
 
 ```
-opencode (CLI/Desktop)                Remielle_OpenPet (Python + PySide6)
+opencode (CLI/Desktop)                Remielle OpenPet (Python + PySide6)
 ┌──────────────────────────┐    TCP       ┌──────────────────────────┐
 │ remielle-openpet.js 插件 ├── 28888 ────▶│ pet.py                   │
 │ 订阅事件总线             │ 单行JSON     │ 事件服务器 → 多会话状态机│
@@ -98,5 +98,4 @@ Remielle_OpenPet/
 ## 注意
 
 - 插件转发所有非子任务会话的事件（带 `sessionId`），前台会话仲裁由桌宠统一完成，跨进程（TUI/Desktop/run）一致。
-- 动图素材来自 `E:\HornLeaf_T\Desktop\新建文件夹\蕾米动图`（含 `Instruction.txt` 状态说明）。
 - 升级安装：重跑 `python install.py` 即可（保留已有 config.json 配置）。
