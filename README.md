@@ -1,6 +1,7 @@
 # Remielle_OpenPet — opencode 状态桌宠
 
 > 本项目由深度求索官方接口 DeepSeek-V4-Flash-0731 / DeepSeek-V4-Pro 在 OpenCode 制作
+
 基于 [oc-claw](https://github.com/rainnoon/oc-claw) 的状态监控思路，为 [opencode](https://opencode.ai) CLI / Desktop 制作的桌宠。
 素材取自绝区零官方的蕾米埃尔·丹（Remielle Dan）表情包，根据 opencode 实时状态切换动图。
 
